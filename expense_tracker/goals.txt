@@ -1,0 +1,5 @@
+App Goal:
+
+Add Expense
+View Expense
+Program
